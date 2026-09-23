@@ -2,3 +2,5 @@ env/
 *.feedpak
 *.sloppak
 *disregard*
+__pycache__/
+*.pyc
