@@ -25,7 +25,7 @@ import yaml
 import yt_dlp
 
 # songsterr_to_feedpak version number to be embedded in the feedpak manifest
-CONFIG_SONGSTERR_TO_FEEDPAK_VERSION = "1.0.0"
+CONFIG_SONGSTERR_TO_FEEDPAK_VERSION = "1.0.1"
 # Minimum number of frets in anchor
 CONFIG_ANCHOR_MIN_WIDTH = 4
 # Amount of sustain to remove at the end, measured in beats
